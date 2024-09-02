@@ -44,4 +44,4 @@ Note - This is public data that you can use to explore how different customer ty
 	- While there are several tools available for data visualization, including Excel and Power BI, our selection of Tableau is deliberate. Tableau offers dynamic capabilities and a diverse range of visualization options, making it the ideal choice for our analytical and visualization needs.
 ### Data Loading
 -There are total 10 csv files containing data from Jan2021-Dec2021
--Importing and combining 10 files of data to single table please [click here]()
+-Importing and combining 10 files of data to single table please [click here](Data Collection.md)
