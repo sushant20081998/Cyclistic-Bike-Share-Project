@@ -45,3 +45,23 @@ Note - This is public data that you can use to explore how different customer ty
 ### Data Loading
 -There are total 10 csv files containing data from Jan2021-Dec2021
 -Importing and combining 10 files of data to single table please [click here](https://github.com/sushant20081998/Cyclistic-Bike-Share-Project/blob/main/Data%20Collection.md)
+### Data Exploration
+- To see data exploration please [click here](https://github.com/sushant20081998/Cyclistic-Bike-Share-Project/blob/main/Data%20Exploration.md)
+### Data Cleaning
+In Data cleaning followings steps are done:
+- Deletion of Blank rows
+- Deletion of Rides that lasts longer than a day and less than a minute
+- Deletion of Rides that shows ride duration in negative time
+### Data Transformation
+- Created new Columns: 
+	- ride_length 
+	- month
+	- day_of_week
+	- hour_in_day.
+- To see data cleaning and transformation [click here](https://github.com/sushant20081998/Cyclistic-Bike-Share-Project/blob/main/Data%20Cleaning%20and%20Transformation.md)
+## Analyze, Share & Act Phase: Cyclistic Bike Share Analysis Report
+- The data has been tidied and formatted for analysis. 
+- I loaded it into Tableau Public and used it to create charts and graphs to visualize the data. 
+- I then created a Story in Tableau to share the insights I gained from the data.
+
+Tableau Story Link: [Cyclistic Bike Share Analysis | Jan 21 to Dec 21]()
