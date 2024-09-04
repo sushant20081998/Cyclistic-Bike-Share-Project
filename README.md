@@ -64,4 +64,19 @@ In Data cleaning followings steps are done:
 - I loaded it into Tableau Public and used it to create charts and graphs to visualize the data. 
 - I then created a Story in Tableau to share the insights I gained from the data.
 
-Tableau Story Link: [Cyclistic Bike Share Analysis | Jan 21 to Dec 21]()
+Tableau Story Link: [Cyclistic Bike Share Analysis | Jan 21 to Dec 21](https://public.tableau.com/views/GoogleCapstoneCyclisticBikeShareProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Screenshot (20)](https://github.com/user-attachments/assets/7802f9df-2508-447a-af5c-090d57107f6f)
+
+![Screenshot (21)](https://github.com/user-attachments/assets/0cbf3751-2736-40eb-9a41-486637ec8e05)
+
+![Screenshot (22)](https://github.com/user-attachments/assets/25efe9e9-e23d-4740-8ec1-34ab67ef4efb)
+
+![Screenshot (23)](https://github.com/user-attachments/assets/9b7a64f6-3238-4bdd-b078-2c68294b68d4)
+
+![Screenshot (24)](https://github.com/user-attachments/assets/f81a6d1a-d62d-4414-b3ec-e5e0df7fbfda)
+
+![Screenshot (25)](https://github.com/user-attachments/assets/6d795819-f41e-4c34-ac68-e197d5d34106)
+
+
+
