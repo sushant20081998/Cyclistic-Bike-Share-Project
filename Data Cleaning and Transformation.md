@@ -16,14 +16,14 @@ WHERE
 - Deletion of records where ride lasts for more than a day
  ```sql 
 DELETE FROM combined_table
-WHERE timestampdiff(HOUR,started_at,ended_at) >=24; - 1275 rows
+WHERE timestampdiff(HOUR,started_at,ended_at) >=24; 
 ```
  1275 rows
 
 - Deletion of records where ride last for less than 1 minute
 ```sql
 DELETE FROM combined_table
-WHERE timestampdiff(SECOND,started_at,ended_at) < 60;    - 34868 rows
+WHERE timestampdiff(SECOND,started_at,ended_at) < 60;   
 ```
  34868 rows
 - Deletion of records where ride duration is negative
