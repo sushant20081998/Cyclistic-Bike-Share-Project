@@ -77,3 +77,5 @@ alter table combined_table;
 update combined_table
 set ride_duration=ride_duration/100;
 ```
+### Data will look like this after transformation
+![Screenshot (18)](https://github.com/user-attachments/assets/13bae1e4-77c4-4690-846f-a4704fdee6d6)
