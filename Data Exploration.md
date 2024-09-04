@@ -3,6 +3,7 @@
 ``` sql
 SELECT COUNT(*) FROM cyclistic.combined_table;
 ```
+- 5595063 rows of record
 ### 1.2 Count of all duplicate Rows
 ```sql
 SELECT DISTINCT COUNT(ride_id) FROM cyclistic.combined_table;
